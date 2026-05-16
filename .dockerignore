@@ -1,0 +1,13 @@
+# Folders to ignore in Docker build
+**/node_modules
+**/dist
+**/static
+**/.venv
+**/__pycache__
+**/.git
+**/.github
+backend/.env
+frontend/.env
+*.ps1
+Dockerfile
+.dockerignore
